@@ -1,7 +1,10 @@
-title:Madhav
-logo:file:///home/madhav224/Pictures/myphoto/myphoto.jpg
-#description: text below image
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+gem "github-pages", group: :jekyll_plugins
+title: Madhav
+description: [task 02] to join in amFOSS club to fulfill my dream.
 show_downloads: true
-theme: @time machine
+google_analytics: yalamarthi.sriram123@gmail.com
 
 
